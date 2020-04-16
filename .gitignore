@@ -65,4 +65,4 @@ crashlytics-build.properties
 # Others
 *.log
 *EditorInstance.json
-CurrentLayout.dwlt
+*.dwlt
