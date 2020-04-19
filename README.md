@@ -6,7 +6,7 @@ VR 3DCG空間で なわとび ができます。超ハッカソン（2020）用�
 
 ## 開発チームについて
 
-- 3DCG経験がほとんどなくUnityを初めて触るSKAと，Gitすら知らなかった初心者のチームで開発しています。
+- 3DCG経験がほとんどなくUnityを初めて触るSKAと，Gitすら知らなかったユキテル氏の初心者チームで開発しています。
 - 開発はKANBAN方式で，GitHub Issues＋ZenHubで管理しています。
 
 ## 使い方
@@ -16,9 +16,9 @@ VR 3DCG空間で なわとび ができます。超ハッカソン（2020）用�
 1. 両端の青い球が持ち手，真ん中の緑の球たちが縄です。
 1. 好きに遊んでください。カウント機能とかタイマー機能は未実装なので，本当に好きに遊んでください。可能性は無限大。
 
-紹介動画はこちら→[sm36704078](https://www.nicovideo.jp/watch/sm36704078)
-
-作業の様子動画は現在編集中です。
+- THE SEED ONLINE→[https://seed.online/products/a8e16ee485d86dd97226526f862203407bf9bfd4868b4f67bc766205ec42e614](https://seed.online/products/a8e16ee485d86dd97226526f862203407bf9bfd4868b4f67bc766205ec42e614)
+- 紹介動画はこちら→[sm36704078](https://www.nicovideo.jp/watch/sm36704078)
+- 作業の様子動画は現在編集中です。
 
 ## 権利とか
 
@@ -55,3 +55,4 @@ VR 3DCG空間で なわとび ができます。超ハッカソン（2020）用�
 	- Twitter：[@SK_Animation](https://twitter.com/SK_Animation)
 - ユキテルのリンク
 	- Twitter：[@rimakoP](https://twitter.com/rimakoP)
+	- Scratch：[https://scratch.mit.edu/users/yukiterup/](https://scratch.mit.edu/users/yukiterup/)
