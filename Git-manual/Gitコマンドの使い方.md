@@ -50,7 +50,7 @@
 - 最新の状態を追加
 
 ```sh
-% git add (directory = .)
+% git add (file = .)
 ```
 
 - 変更の確定
@@ -77,4 +77,17 @@
 
 ```sh
 % git status
+```
+
+- 最新のコミットの状態に戻す
+
+```sh
+% git reset --hard HEAD
+```
+
+- 1つ前のコミットの状態に強制的に戻す
+
+```sh
+% git reset --hard HEAD^
+% git push -f origin (branch)
 ```
